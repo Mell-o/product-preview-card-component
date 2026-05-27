@@ -9,3 +9,7 @@
     --Cream: hsl(30, 38%, 92%);
     --White: hsl(0, 0%, 100%);
 }
+
+p {
+    font-size: 0.875rem;
+}
