@@ -16,7 +16,9 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 4.688em 1.563em;
+    margin: auto;
+    width: 100vw;
+    height: 125vh;
 }
 
 figure {
