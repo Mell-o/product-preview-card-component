@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://product-preview-card-component-mellow.netlify.app/)
+- Live Site URL: [Live Site](https://www.frontendmentor.io/solutions/product-preview-card-using-flexbox-BZkfYjvplp)
 
 ## My process
 
