@@ -11,11 +11,14 @@
 }
 
 body {
-    background-color: var(--Cream);
     display: flex;
+    background-color: var(--Cream);
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     margin: 0 auto;
     width: 50vw;
+    min-height: 100vh;
     height: 125vh;
 }
 
