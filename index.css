@@ -14,8 +14,6 @@ body {
     background-color: var(--Cream);
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
     margin: auto;
     width: 50vw;
     height: 125vh;
